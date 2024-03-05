@@ -1,1 +1,1 @@
-## Banl Loan Classifier 
+## Bank Loan Classifier 
